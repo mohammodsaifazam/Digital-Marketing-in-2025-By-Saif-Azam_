@@ -1,10 +1,10 @@
-# 🚀 Digital Marketing in 2025
+# Digital Marketing in 2025
 ### _By Saif Azam_
 
 > Digital marketing is no longer optional — it’s essential.  
 > In a world where attention is the new currency, brands that adapt digitally are the ones that grow and lead.
 
-## 🌐 What is Digital Marketing?
+## What is Digital Marketing?
 Digital marketing is the practice of promoting products and services using online platforms such as:
 - **SEO (Search Engine Optimization)**
 - **Social Media Marketing**
@@ -16,7 +16,7 @@ Each strategy helps businesses **connect**, **engage**, and **convert** their ta
 
 ---
 
-## 📈 Why It Matters in 2025
+## Why It Matters in 2025
 - Builds brand visibility  
 - Creates meaningful audience engagement  
 - Boosts organic traffic and lead generation  
@@ -26,22 +26,22 @@ Each strategy helps businesses **connect**, **engage**, and **convert** their ta
 
 ---
 
-## 💡 My Focus Areas
-- 🔍 SEO & Keyword Research  
-- 📱 Social Media Growth Strategy  
-- 📊 Analytics & Conversion Optimization  
-- 🧠 Content Strategy & Branding  
+## My Focus Areas
+- SEO & Keyword Research  
+- Social Media Growth Strategy  
+- Analytics & Conversion Optimization  
+- Content Strategy & Branding  
 
 ---
 
-## 🏁 Final Thought
+## Final Thought
 Digital marketing isn’t just about ads — it’s about **understanding people**.  
-When data meets creativity, real growth happens. 🚀  
+When data meets creativity, real growth happens. 
 
 ---
 
-### 🧾 Connect With Me
+### Connect With Me
 **Saif Azam**  
-🌐 [LinkedIn](#) | 🐦 [Twitter](#) | 📸 [Instagram](#) | 📘 [Facebook](#)  
+ [LinkedIn](https://www.linkedin.com/in/mohammodsaifazam/) | 🐦 [Twitter](https://x.com/mohammdsaifazam) | 📸 [Instagram](https://www.instagram.com/mohammodsaifazam) | [[Facebook] (https://www.facebook.com/mohammodsaifazam/)
 
 #DigitalMarketing #SEO #SocialMedia #BrandGrowth #OnlineStrategy #SaifAzam
